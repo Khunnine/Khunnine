@@ -1,5 +1,5 @@
 # WELCOME TO Natthaporn jainom 🐳
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="130">
 <p><em>Computer Enginner at <a href="http://www.unb.br">Rajamangala University of Technology Lanna</a><img src="[https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif](https://www.rmutl.ac.th/)" width="30"></br></em></p>
 
 ### 🌐 Socials: 
