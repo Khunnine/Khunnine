@@ -2,7 +2,7 @@
 
 <p><em>Study Computer Enginner at <a href="http://www.unb.br">Rajamangala University of Technology Lanna</a><img src="[https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif](https://www.rmutl.ac.th/)" width="30"></br></em></p>
 <p><em>" I am always eager to learn new things.  I am always willing to help others. I am confident that I have the skills and the drive to succeed in a career in computer engineering. "</br></em></p>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="120">
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
 ### 🌐 Socials: 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/khunnine) [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](htttps://discord.gg/Kqz.czx#2894) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/khunnine.n/) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Khunnine.n)
