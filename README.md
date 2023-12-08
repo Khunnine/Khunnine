@@ -2,6 +2,9 @@
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Computer Enginner at <a href="http://www.unb.br">Rajamangala University of Technology Lanna</a><img src="[https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif](https://www.rmutl.ac.th/)" width="30"></br></em></p>
 
+<p align="center"><a href="https://github.com/Khunnine"><img width="80%" alt="Hello, I'm Natthaporn. About me!" src="./assets/gh-readme-header.png" /></a></p>
+<br />
+
 ### 🌐 Socials:
 [![Linkedin Badge](https://img.shields.io/badge/-jlim-blue?style=flat&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/khunnine)](www.linkedin.com/in/khunnine) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/Kqz.czx#2894) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Khunnine.n) 
 
